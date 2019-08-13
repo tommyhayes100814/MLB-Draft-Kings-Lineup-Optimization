@@ -1,0 +1,1 @@
+Optimization for MLB Lineups. The project is still in the early stages and should be compatible with all sports soonish. All projections are scraped from rotokings and will automaiically updated daily when ran. 
